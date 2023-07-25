@@ -1,0 +1,12 @@
+C:\Users\Selcuk_Kose\Documents\AzureExs\Functions\TodoAppSample\TodoAppCore\bin\Release\net6.0\TodoAppCore.deps.json
+C:\Users\Selcuk_Kose\Documents\AzureExs\Functions\TodoAppSample\TodoAppCore\bin\Release\net6.0\TodoAppCore.dll
+C:\Users\Selcuk_Kose\Documents\AzureExs\Functions\TodoAppSample\TodoAppCore\bin\Release\net6.0\TodoAppCore.pdb
+C:\Users\Selcuk_Kose\Documents\AzureExs\Functions\TodoAppSample\TodoAppCore\obj\Release\net6.0\TodoAppCore.csproj.AssemblyReference.cache
+C:\Users\Selcuk_Kose\Documents\AzureExs\Functions\TodoAppSample\TodoAppCore\obj\Release\net6.0\TodoAppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Selcuk_Kose\Documents\AzureExs\Functions\TodoAppSample\TodoAppCore\obj\Release\net6.0\TodoAppCore.AssemblyInfoInputs.cache
+C:\Users\Selcuk_Kose\Documents\AzureExs\Functions\TodoAppSample\TodoAppCore\obj\Release\net6.0\TodoAppCore.AssemblyInfo.cs
+C:\Users\Selcuk_Kose\Documents\AzureExs\Functions\TodoAppSample\TodoAppCore\obj\Release\net6.0\TodoAppCore.csproj.CoreCompileInputs.cache
+C:\Users\Selcuk_Kose\Documents\AzureExs\Functions\TodoAppSample\TodoAppCore\obj\Release\net6.0\TodoAppCore.dll
+C:\Users\Selcuk_Kose\Documents\AzureExs\Functions\TodoAppSample\TodoAppCore\obj\Release\net6.0\refint\TodoAppCore.dll
+C:\Users\Selcuk_Kose\Documents\AzureExs\Functions\TodoAppSample\TodoAppCore\obj\Release\net6.0\TodoAppCore.pdb
+C:\Users\Selcuk_Kose\Documents\AzureExs\Functions\TodoAppSample\TodoAppCore\obj\Release\net6.0\ref\TodoAppCore.dll
